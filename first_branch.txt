@@ -1,5 +1,9 @@
 hello, first branch commit
 Hello, Second branch commit
 
+<<<<<<< HEAD
 
 Hello, This was added in Remote repository github.
+=======
+Added in github
+>>>>>>> 240c0b267d16f48f2a996a8a210c4aa8474067ec
